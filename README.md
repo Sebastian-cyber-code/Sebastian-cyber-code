@@ -20,7 +20,7 @@ I am a cybersecurity learner from Romania focused on ethical hacking, privacy, a
 - Work in a professional cybersecurity environment in the future
 
 ## ⚠️ Disclaimer
-All work is for educational and ethical purposes only.
+All work is for educational and ethical purposes only
 <!--
 **Sebastian-cyber-code/Sebastian-cyber-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
